@@ -2,4 +2,4 @@
 ___
 ### I Am A Software Engineer Working As Full Stack Web Application Developer.
 ### Contact me on:
-[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/findhussnain/)
+https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/findhussnain/)
