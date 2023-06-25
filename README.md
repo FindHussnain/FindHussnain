@@ -1,4 +1,4 @@
-# Welcome to my page, I'm Kane
+# Hi 👋, I am Hussnain Younas.
 
 [![About.me](https://img.shields.io/static/v1?style=flat&label=Blog&message=@kxxoling&color=00A98F)](https://blog.windrunner.me)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/2836912?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/2836912/kane-blueriver)
@@ -88,10 +88,3 @@ Systems I code on:
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows+11&color=0078D4&logo=Windows+11&logoColor=FFFFFF&label=)
-
----
-___
-
-<a href="https://github.com/kxxoling/iBeats">
-<img alt="my heartbeat" src="https://raw.githubusercontent.com/kxxoling/iBeats/main/files/heart.svg" alt="macropower" align="right" />
-</a>
