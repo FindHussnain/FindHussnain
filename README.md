@@ -57,6 +57,7 @@ Programming Languages I've explored:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+
 ---
 
 Backend frameworks I've worked with:
