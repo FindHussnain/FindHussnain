@@ -1,10 +1,12 @@
 # Hi 👋, I am Hussnain Younas. 
 ### (under construction ReadMe.md....)
 
+<! -- 
 [![About.me](https://img.shields.io/static/v1?style=flat&label=Blog&message=@kxxoling&color=00A98F)](https://blog.windrunner.me)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/2836912?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/2836912/kane-blueriver)
 [![GitHub followers](https://img.shields.io/github/followers/kxxoling?color=green&logo=github)](https://github.com/kxxoling?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=kxxoling)](https://github.com/kxxoling)
+-->
 
 I'm a skilled Full-stack web developer with passion for building innovative and user-friendly applications from scratch.
 
