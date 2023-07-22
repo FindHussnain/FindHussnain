@@ -19,6 +19,8 @@ I'm excited to leverage my skills and experience to create cutting-edge solution
 
 ---
 
+<!-- 
+
 Things I'm coding with:
 
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
@@ -37,6 +39,7 @@ Things I'm coding with:
 
 ---
 
+-->
 Frontend technologies in my bag:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
