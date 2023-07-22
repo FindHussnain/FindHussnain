@@ -1,5 +1,5 @@
 # Hi 👋, I am Hussnain Younas. 
-### <code style="color : name_color">(under construction ReadMe.md....)</code>
+### <code style="color : red">(under construction ReadMe.md....)</code>
 
 <!-- 
 [![About.me](https://img.shields.io/static/v1?style=flat&label=Blog&message=@kxxoling&color=00A98F)](https://blog.windrunner.me)
