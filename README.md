@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FindHussnain)
 [![GitHub followers](https://img.shields.io/github/followers/FindHussnain?color=green&logo=github)](https://github.com/FindHussnain?tab=followers)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Stack Overflow](https://img.shields.io/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/2836912?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/2836912/kane-blueriver)
 
 
