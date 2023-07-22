@@ -2,7 +2,8 @@
 ## $${\color{red}(under construction ReadMe.md....)}$$	
 
 [![LinkedIn](https://img.shields.io/badge/linkedin?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FindHussnain)
-[![GitHub followers](https://img.shields.io/github/followers/FindHussnain?color=green&logo=github)](https://github.com/FindHussnain?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://github.com/FindHussnain?tab=followers)
 
 <!-- 
 [![About.me](https://img.shields.io/static/v1?style=flat&label=Blog&message=@kxxoling&color=00A98F)](https://blog.windrunner.me)
