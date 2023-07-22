@@ -1,4 +1,4 @@
-# Hi 👋, I am HUSSNAIN YOUNAS. 
+# Hi 👋, I am Hussnain Younas. 
 ### (under construction ReadMe.md....)
 
 <!-- 
