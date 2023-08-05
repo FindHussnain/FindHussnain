@@ -7,6 +7,11 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=kxxoling)](https://github.com/kxxoling)
 -->
+[![GitHub followers](https://img.shields.io/github/followers/FindHussnain?color=green&logo=github)](https://github.com/FindHussnain?tab=followers)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FindHussnain)
+[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://LinkedIn.com/ln/FindHussnain)
+[![Twitter](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white))](https://twitter.com/FindHussnain)
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/preetjutt143)
 
 I'm a skilled Full-stack web developer with a passion for building innovative and user-friendly applications from scratch.
 
@@ -14,22 +19,7 @@ My expertise extends across the entire software development life cycle, from imp
 
 I'm excited to leverage my skills and experience to create cutting-edge solutions that exceed expectations and deliver outstanding results.
 
----
-
-Let's connect:
-
-[![GitHub followers](https://img.shields.io/github/followers/FindHussnain?color=green&logo=github)](https://github.com/FindHussnain?tab=followers)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FindHussnain)
-[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://LinkedIn.com/ln/FindHussnain)
-
-[![Twitter](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white))](https://twitter.com/FindHussnain)
-
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/preetjutt143)
-
-
-
 <!-- 
-
 ---
 
 Things I'm coding with:
