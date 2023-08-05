@@ -1,10 +1,4 @@
-# Hi 👋, I am Hussnain Younas. 
 ## $${\color{red}(under construction ReadMe.md....)}$$	
-
-
-[![GitHub followers](https://img.shields.io/github/followers/FindHussnain?color=green&logo=github)](https://github.com/FindHussnain?tab=followers)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FindHussnain)
-
 ![Banner](https://github.com/FindHussnain/FindHussnain/blob/master/FindhussnainBanner.png)
 
 <!-- 
@@ -14,13 +8,17 @@
 [![Profile views](https://komarev.com/ghpvc/?username=kxxoling)](https://github.com/kxxoling)
 -->
 
-I'm a skilled Full-stack web developer with passion for building innovative and user-friendly applications from scratch.
+I'm a skilled Full-stack web developer with a passion for building innovative and user-friendly applications from scratch.
 
-My expertise extends across the entire software development life cycle, from implementing intuitive user interfaces to optimizing back-end functionality for seamless performance. I'm deeply committed to staying up-to-date with the latest advancements in technology, and I thrive on the challenge of exploring new and emerging tools and techniques. As a result, I'm always eager to take on new roles and responsibilities that push me to learn and grow as a developer.
+My expertise extends across the entire software development life cycle, from implementing intuitive user interfaces to optimizing back-end functionality for seamless performance. I'm deeply committed to staying up-to-date with the latest technological advancements, and I thrive on the challenge of exploring new and emerging tools and techniques. As a result, I'm always eager to take on new roles and responsibilities that push me to learn and grow as a developer.
 
 I'm excited to leverage my skills and experience to create cutting-edge solutions that exceed expectations and deliver outstanding results.
 
 ---
+
+
+[![GitHub followers](https://img.shields.io/github/followers/FindHussnain?color=green&logo=github)](https://github.com/FindHussnain?tab=followers)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FindHussnain)
 
 <!-- 
 
