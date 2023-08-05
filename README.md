@@ -3,6 +3,9 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/FindHussnain?color=green&logo=github)](https://github.com/FindHussnain?tab=followers)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FindHussnain)
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 <!-- 
 [![About.me](https://img.shields.io/static/v1?style=flat&label=Blog&message=@kxxoling&color=00A98F)](https://blog.windrunner.me)
