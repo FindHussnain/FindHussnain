@@ -1,5 +1,5 @@
 <!--## $${\color{red}(under construction ReadMe.md....)}$$-->
-![Banner](https://github.com/FindHussnain/FindHussnain/blob/master/FindhussnainBanner.png)
+![Banner](https://github.com/FindHussnain/FindHussnain/blob/master/FindHussnain.png)
 
 <!-- 
 [![About.me](https://img.shields.io/static/v1?style=flat&label=Blog&message=@kxxoling&color=00A98F)](https://blog.windrunner.me)
