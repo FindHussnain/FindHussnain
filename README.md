@@ -16,11 +16,14 @@ I'm excited to leverage my skills and experience to create cutting-edge solution
 
 ---
 
+Let's connect:
 
 [![GitHub followers](https://img.shields.io/github/followers/FindHussnain?color=green&logo=github)](https://github.com/FindHussnain?tab=followers)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FindHussnain)
 
 <!-- 
+
+---
 
 Things I'm coding with:
 
