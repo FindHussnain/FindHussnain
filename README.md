@@ -18,7 +18,7 @@
 
 
 
-I'm a skilled Full-stack web developer with a passion for building innovative and user-friendly applications from scratch.
+I'm a skilled Full-stack web developer with a passion for building innovative and user-friendly applications from requirements to deployment.
 
 My expertise extends across the entire software development life cycle, from implementing intuitive user interfaces to optimizing back-end functionality for seamless performance. I'm deeply committed to staying up-to-date with the latest technological advancements, and I thrive on the challenge of exploring new and emerging tools and techniques. As a result, I'm always eager to take on new roles and responsibilities that push me to learn and grow as a developer.
 
