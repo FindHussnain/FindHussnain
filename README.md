@@ -1,12 +1,12 @@
 <!--## $${\color{red}(under construction ReadMe.md....)}$$-->
 ![Banner](https://github.com/FindHussnain/FindHussnain/blob/master/FindHussnain.png)
 
-<!-- 
+<!--
 [![About.me](https://img.shields.io/static/v1?style=flat&label=Blog&message=@kxxoling&color=00A98F)](https://blog.windrunner.me)
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/2836912?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/2836912/kane-blueriver)
 
 [![Profile views](https://komarev.com/ghpvc/?username=kxxoling)](https://github.com/kxxoling)
--->
+
 [![GitHub followers](https://img.shields.io/github/followers/FindHussnain?color=green&logo=github)](https://github.com/FindHussnain?tab=followers)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/preetjutt143)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/FindHussnain)
@@ -15,7 +15,7 @@
 [![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://facebook.com/preetjutt143)
 [![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~018b507954196fa5f1)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FindHussnain)
-
+-->
 
 
 I'm a skilled Full-stack web developer with a passion for building innovative and user-friendly applications from requirements to deployment.
