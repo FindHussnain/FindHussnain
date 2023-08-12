@@ -46,7 +46,7 @@ Things I'm coding with:
 ---
 
 -->
-Frontend technologies in my bag:
+## 🌐 Frontend technologies in my bag:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,7 +61,7 @@ Frontend technologies in my bag:
 
 ---
 
-Programming Languages I've explored:
+## 🖥️ Programming Languages I've explored:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -73,7 +73,7 @@ Programming Languages I've explored:
 
 ---
 
-Backend frameworks I've worked with:
+## 💻 Backend frameworks I've worked with:
 
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
@@ -81,7 +81,7 @@ Backend frameworks I've worked with:
 
 ---
 
-Databases I've stored data in:
+## 🗄️🗂️🗃️ Databases I've stored data in:
 
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
@@ -94,7 +94,7 @@ Databases I've stored data in:
 
 ---
 
-API's Experience Things:
+## 🔄 API's Experience Things:
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
@@ -103,7 +103,7 @@ API's Experience Things:
 
 ---
 
-Version Control Things:
+## 📚 Version Control Things:
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
@@ -113,14 +113,14 @@ Version Control Things:
 
 ---
 
-Platforms I deployed on:
+## 🚀 Platforms I deployed on:
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 ---
 
-Systems I code on:
+## ⚙️ Systems I code on:
 
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
@@ -128,7 +128,7 @@ Systems I code on:
 
 ---
 
-Code Editors, I used:
+## 📝 Code Editors, I used:
 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
